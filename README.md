@@ -1,1 +1,3 @@
 # ultra
+A decentralized authentication system for Web3 applications on Solana;
+🚀 In development...
